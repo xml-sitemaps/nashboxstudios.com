@@ -62,6 +62,6 @@ Disallow:/*&reversePaginate=*
 Sitemap: https://www.nashboxstudios.com/sitemap.xml
 
 ##LLMS reference for internal tracking
-##LLMS:
+##LLMS: https://xml-sitemaps.github.io/nashboxstudios.com/llms.txt
 
-Sitemap:
+Sitemap: https://xml-sitemaps.github.io/nashboxstudios.com/sitemap-llms.xml
